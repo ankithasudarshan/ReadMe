@@ -1,4 +1,3 @@
-# Readme
 
 Hi There ! I'm Ankitha, a Computer Science graduate student at Purdue University. I worked as an Associate in Data & Analytics at KPMG US for about 2 years on their advanced capabilities called Clara, an integrated system for ERPs along with building custom firm relevant NLP applications such as conversational bots and account mapping engines in collaboration with the KPMG Europe team.
 
