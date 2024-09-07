@@ -1,9 +1,9 @@
-* 👋 Hi There!
-I'm Ankitha, a Computer Science graduate student at Purdue University. I worked as an Associate in Data & Analytics at KPMG US for about 2 years on their advanced capabilities called Clara, an integrated system for ERPs along with building custom firm relevant NLP applications such as conversational bots and account mapping engines in collaboration with the KPMG Europe team.
 
-I have also designed and developed NLP applications with a focus on social media and financial data. I have worked on areas of computer vision with a focus on the amalgamation of image processing , anomaly detection and video summarization which has been published as a patent. My area of research is speech and language understanding (SLU).
 
-* 🔭 I’m currently working on ...
-My current active area of research is on, enchancing contextual reference in Automated Speech Recognition (ASR) engines.
+👋 Hi there! I’m Ankitha, a PhD student in Computer Science at SUNY Buffalo, where I dive deep into Natural Language Processing (NLP), Conversational AI, and Large Language Models (LLMs). Right now, I’m focusing on responsible AI, specifically working on improving how ASR systems understand context.
 
-I'm open to every new opportunity and learning. Would love to brainstorm and collaborate on research projects in similar backgrounds.
+Before starting my PhD, I spent about two years at KPMG US as an Associate in Data & Analytics. There, I worked with Clara, their advanced ERP system, and developed various NLP applications, including conversational bots and account mapping tools, in collaboration with the KPMG Europe team. I also explored NLP for social media and financial data, and even ventured into computer vision, where I contributed to image processing, anomaly detection, and video summarization—my work in this area led to a published patent.
+
+I’m always excited about new challenges and opportunities to collaborate. If you’re interested in brainstorming or working together on research projects, I’d love to connect!
+
+---
